@@ -1,0 +1,24 @@
+# Ignorar entorno virtual
+venv/
+env/
+
+# Ignorar archivos generados
+*.pyc
+__pycache__/
+*.log
+
+# Archivos de configuración o temporales
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos de metadatos de IDEs
+.vscode/
+.idea/
+
+# Ignorar paquetes descargados
+*.egg-info/
+*.eggs/
+build/
+dist/
